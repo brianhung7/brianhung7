@@ -1,4 +1,4 @@
-### Hi there I'm ✨Brian✨ 👋
+### 👋 Hello world, I'm ✨Brian✨ 
 
 <ul>
   <li>💻 Software Engineer </li>
