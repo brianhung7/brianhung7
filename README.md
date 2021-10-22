@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there I'm ✨Brian✨ 👋
 
+<ul>
+  <li>💻 Software Engineer </li>
+  <li>🎓 Degree in Computer Science (Specialization) and Biology (B.S) from UCLA </li>
+  <li>📚 Software Engineering graduate from General Assembly </li>
+  <li>📓 Always learning new things </li>
+</ul>
 <!--
 **brianhung7/brianhung7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
