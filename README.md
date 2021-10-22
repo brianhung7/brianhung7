@@ -1,10 +1,11 @@
-###  👋 Hello world, I'm Brian �
+###  👋 Hello world, I'm Brian 
 
 <ul>
   <li>💻 Software Engineer </li>
   <li>🎓 Degree in Computer Science (Specialization) and Biology (B.S) from UCLA </li>
   <li>📚 Software Engineering graduate from General Assembly </li>
   <li>📓 Always learning new things </li>
+  <li>💬 Feel free to ask me about anything! </li>
 </ul>
 
 ## 📫 Connect with me!  
