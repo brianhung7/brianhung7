@@ -13,6 +13,9 @@
 <a href="mailto:brianpham.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a href="https://brianvpham.com/"> <img src="https://img.shields.io/badge/website-E4405F?style=for-the-badge&logo=opensourceinitiative&logoColor=white" /> </a>
 </br>
+
+## ⚡ Stats
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianhung7)](https://github.com/brianhung7/github-readme-stats)
 <!--
 **brianhung7/brianhung7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
