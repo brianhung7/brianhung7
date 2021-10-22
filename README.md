@@ -15,7 +15,7 @@
 </br>
 
 ## ⚡ Stats
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianhung7)](https://github.com/brianhung7/github-readme-stats)
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianhung7&hide=stars&show_icons=true?theme=react)](https://github.com/brianhung7/github-readme-stats)
 <!--
 **brianhung7/brianhung7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
