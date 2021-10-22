@@ -10,7 +10,8 @@
 ## 📫 Connect with me!  
 <br>
 <a href="https://www.linkedin.com/in/brianpham-se/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="mailto:allengonzales018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:brianpham.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://brianvpham.com/"> <img src="https://img.shields.io/badge/website-E4405F?style=for-the-badge&logo=opensourceinitiative&logoColor=white" /> </a>
 </br>
 <!--
 **brianhung7/brianhung7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
