@@ -3,7 +3,7 @@
 <ul>
   <li>💻 Software Engineer </li>
   <br />
-  <li>🎓 Degree in Computer Science (Specialization) and Biology (B.S) from UCLA </li>
+  <li>🎓 Degree in Computer Science (Specialization) and Biology (B.Sc) from UCLA </li>
   <br />
   <li>📚 Software Engineering graduate from General Assembly </li>
   <br />
