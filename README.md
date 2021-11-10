@@ -2,9 +2,13 @@
 
 <ul>
   <li>💻 Software Engineer </li>
+  <br />
   <li>🎓 Degree in Computer Science (Specialization) and Biology (B.S) from UCLA </li>
+  <br />
   <li>📚 Software Engineering graduate from General Assembly </li>
+  <br />
   <li>📓 Always learning new things </li>
+  <br />
   <li>💬 Feel free to ask me about anything! </li>
 </ul>
 
