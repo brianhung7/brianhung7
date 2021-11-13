@@ -7,10 +7,20 @@
   <br />
   <li>📚 Software Engineering graduate from General Assembly </li>
   <br />
-  <li>📓 Always learning new things </li>
+  <li>📓 Always learning new things | Currently learning Next.js! </li>
   <br />
-  <li>💬 Feel free to ask me about anything! </li>
+  <li>💬 Feel free to ask me about anything or just have a chat! </li>
 </ul>
+
+## :rocket: My Projects
+<ul>
+  <li>:framed_picture: <a href="http://theexhibit.herokuapp.com/">The Exhibit</a> A hybrid social media/ecommerce website where users can upload, share, and buy/sell artwork. Users can build a following and follow other artists and message them to keep up to date on their work. </li>
+  <br />
+  <li>:airplane: <a href="https://bestwayfarer.herokuapp.com/">Wayfarer</a> A travel blogging website where travelers can write articles about their journeys and engage with the community. </li>
+  <br />
+  <li>:movie_camera: <a href="https://theticketdiary.herokuapp.com/">Ticket Diary</a> A movie discussion application that invites movie lovers to discuss and keep track of films they have enjoyed. </li>
+</ul>
+
 
 ## 📫 Connect with me!  
 <br>
