@@ -16,6 +16,8 @@
 <ul>
   <li>:framed_picture: <a href="http://theexhibit.herokuapp.com/">The Exhibit</a> A hybrid social media/ecommerce website where users can upload, share, and buy/sell artwork. Users can build a following and follow other artists and message them to keep up to date on their work. </li>
   <br />
+  <li> 🚚 <a href="https://github.com/brianhung7/Road-Buddy">10-44</a> Winning application of General Assembly's 2021 Winter Hackathon. App matches long-haul truckers up based on their interests and enables them to message/call each other to fight seasonal depression and loneliness. </li>
+  <br />
   <li>:airplane: <a href="https://bestwayfarer.herokuapp.com/">Wayfarer</a> A travel blogging website where travelers can write articles about their journeys and engage with the community. </li>
   <br />
   <li>:movie_camera: <a href="https://theticketdiary.herokuapp.com/">Ticket Diary</a> A movie discussion application that invites movie lovers to discuss and keep track of films they have enjoyed. </li>
