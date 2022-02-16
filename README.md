@@ -1,13 +1,13 @@
 ###  👋 Hello world, I'm Brian 
 
 <ul>
-  <li>💻 Software Engineer </li>
+  <li>💻 Software Engineer at Entera</li>
   <br />
   <li>🎓 Degree in Computer Science (Specialization) and Biology (B.Sc) from UCLA </li>
   <br />
   <li>📚 Software Engineering graduate from General Assembly </li>
   <br />
-  <li>📓 Always learning new things
+  <li>📓 Always learning new things </li>
   <br />
   <li>💬 Feel free to ask me about anything or just have a chat! </li>
 </ul>
