@@ -7,7 +7,7 @@
   <br />
   <li>📚 Software Engineering graduate from General Assembly </li>
   <br />
-  <li>📓 Always learning new things | Currently learning Ruby on Rails! </li>
+  <li>📓 Always learning new things
   <br />
   <li>💬 Feel free to ask me about anything or just have a chat! </li>
 </ul>
