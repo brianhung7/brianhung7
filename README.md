@@ -14,7 +14,7 @@
 
 ## :rocket: My Projects
 <ul>
-  <li>:framed_picture: <a href="http://theexhibit.herokuapp.com/">The Exhibit</a> A hybrid social media/ecommerce website where users can upload, share, and buy/sell artwork. Users can build a following and follow other artists and message them to keep up to date on their work. </li>
+  <li>:framed_picture: <a href="http://theexhibit.herokuapp.com/">The Exhibit</a> A hybrid social media/ecommerce website where users can upload, share, and buy/sell artwork, with payment processing through Stripe. Users can build a following and follow other artists and message them to keep up to date on their work. </li>
   <br />
   <li> 🚚 <a href="https://github.com/brianhung7/Road-Buddy">10-44</a> Winning application of General Assembly's 2021 Winter Hackathon. App matches long-haul truckers up based on their interests and enables them to message/call each other to fight seasonal depression and loneliness. </li>
   <br />
