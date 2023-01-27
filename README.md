@@ -1,7 +1,7 @@
 ###  👋 Hello world, I'm Brian 
 
 <ul>
-  <li>💻 Jr. Software Engineer at Entera.ai</li>
+  <li>💻 Software Engineer at Entera.ai</li>
   <br />
   <li>🎓 Degree in Computer Science (Specialization) and Biology (B.Sc) from UCLA </li>
   <br />
